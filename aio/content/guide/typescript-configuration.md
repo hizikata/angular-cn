@@ -6,7 +6,7 @@ TypeScript is a primary language for Angular application development.
 It is a superset of JavaScript with design-time support for type safety and tooling.
 
 TypeScript 是 Angular 应用开发中使用的主语言。
-它是 JavaScript 的“方言”之一，为类型安全和工具化而做了设计期支持。
+它是 JavaScript 的超集，为类型安全和工具化而做了设计期支持。
 
 Browsers can't execute TypeScript directly. Typescript must be "transpiled" into JavaScript using the *tsc* compiler,
 which requires some configuration.
